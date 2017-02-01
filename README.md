@@ -1,2 +1,1 @@
-# nmr 
-Advanced Computing assignment
+# nmr
