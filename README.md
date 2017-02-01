@@ -1,2 +1,2 @@
-# uor_cs3ac16
+# nmr 
 Advanced Computing assignment
